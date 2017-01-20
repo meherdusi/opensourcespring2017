@@ -2,5 +2,5 @@
 ### email: riosi@rpi.edu 
 
 ### github account: ianrios
-### slack handle: ianrios
+### slack handle: riosi
 Photo of Ian ![Ian](images/ian.jpg)
