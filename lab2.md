@@ -13,7 +13,7 @@ and Rendering of Environmental Audio. We would use the GPLv2 licence because we 
 9.	For a project in this course, I am interested in making a audio DSP device that takes in prerecorded signals and granulizes them and convertets them into audio patterns to use in songs. Artists and programmers interested in hearing what different recordings sound like when run through algorithms. It can be used in data ambisonics for sonification and would be applicable in large speaker arrays. Artists intersted in using this would be able to create leads and melodys for songs along with drum samples. It would be interesting to see what creativity could come out of this program by hosting it open source.
 10.	
 | Website | License Present | License |
-|---------|:----------|:------- |
+|-----------------------------------------------|:------|:--------------------------------------------------- |
 |https://github.com/rcos/Observatory | Yes | Two Clause BSD License https://en.wikipedia.org/wiki/ISC_license |  
 |https://github.com/SeanWaclawik/courseproject | Yes | MIT |  
 |https://github.com/Stashmatic/ARAS | Yes | MIT |  
