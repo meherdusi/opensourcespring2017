@@ -14,8 +14,8 @@ and Rendering of Environmental Audio. We would use the GPLv2 licence because we 
 10.	
 | Website | License Present | License |
 |---------|:----------|:------- |
-|https://github.com/rcos/Observatory | Yes | Two Clause BSD License https://en.wikipedia.org/wiki/ISC_license |
-|https://github.com/SeanWaclawik/courseproject | Yes | MIT |
-|https://github.com/Stashmatic/ARAS | Yes | MIT |
-|https://github.com/samuelyuan/AtomForum | Yes | MIT |
-|https://github.com/mukulio/atomx | No | NA |
+|https://github.com/rcos/Observatory | Yes | Two Clause BSD License https://en.wikipedia.org/wiki/ISC_license |  
+|https://github.com/SeanWaclawik/courseproject | Yes | MIT |  
+|https://github.com/Stashmatic/ARAS | Yes | MIT |  
+|https://github.com/samuelyuan/AtomForum | Yes | MIT |  
+|https://github.com/mukulio/atomx | No | NA |  
