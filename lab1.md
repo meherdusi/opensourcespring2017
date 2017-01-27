@@ -8,5 +8,5 @@ d.	3. Directory structure ![Direct](images/direct.png)
 e.	2. Photo of Regex ![Regex](images/regex_problems.png)
 	3. Photo of Puzzles ![Puzzles](images/puzzle.png)
 f.	2. Photo of Blocky ![Blocky](images/blocky.png)
-g. 	 Reflection
+g. 	Reflection
 	2. I am interested in music and making audio programs to process sound. I was thinking about taking input audio files and running them through a program that I would make, to output bassline patterns and sounds. I could write this as a VST (virtual studio technology) program for digital audio workspaces or a standalone program or both. I will continue researching how to do this by learning how vst's are written and seeing if there are similar programs already avaliable.
