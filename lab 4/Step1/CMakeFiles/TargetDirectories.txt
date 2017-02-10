@@ -1,0 +1,3 @@
+/home/riosi/Documents/GitHub/opensourcespring2017/lab 4/Step1/CMakeFiles/edit_cache.dir
+/home/riosi/Documents/GitHub/opensourcespring2017/lab 4/Step1/CMakeFiles/rebuild_cache.dir
+/home/riosi/Documents/GitHub/opensourcespring2017/lab 4/Step1/CMakeFiles/Tutorial.dir

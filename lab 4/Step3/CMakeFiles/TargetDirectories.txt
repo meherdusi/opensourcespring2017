@@ -1,0 +1,16 @@
+/home/riosi/Documents/GitHub/opensourcespring2017/lab 4/Step3/CMakeFiles/list_install_components.dir
+/home/riosi/Documents/GitHub/opensourcespring2017/lab 4/Step3/CMakeFiles/install.dir
+/home/riosi/Documents/GitHub/opensourcespring2017/lab 4/Step3/CMakeFiles/rebuild_cache.dir
+/home/riosi/Documents/GitHub/opensourcespring2017/lab 4/Step3/CMakeFiles/edit_cache.dir
+/home/riosi/Documents/GitHub/opensourcespring2017/lab 4/Step3/CMakeFiles/Tutorial.dir
+/home/riosi/Documents/GitHub/opensourcespring2017/lab 4/Step3/CMakeFiles/install/local.dir
+/home/riosi/Documents/GitHub/opensourcespring2017/lab 4/Step3/CMakeFiles/install/strip.dir
+/home/riosi/Documents/GitHub/opensourcespring2017/lab 4/Step3/CMakeFiles/test.dir
+/home/riosi/Documents/GitHub/opensourcespring2017/lab 4/Step3/MathFunctions/CMakeFiles/list_install_components.dir
+/home/riosi/Documents/GitHub/opensourcespring2017/lab 4/Step3/MathFunctions/CMakeFiles/install.dir
+/home/riosi/Documents/GitHub/opensourcespring2017/lab 4/Step3/MathFunctions/CMakeFiles/rebuild_cache.dir
+/home/riosi/Documents/GitHub/opensourcespring2017/lab 4/Step3/MathFunctions/CMakeFiles/edit_cache.dir
+/home/riosi/Documents/GitHub/opensourcespring2017/lab 4/Step3/MathFunctions/CMakeFiles/MathFunctions.dir
+/home/riosi/Documents/GitHub/opensourcespring2017/lab 4/Step3/MathFunctions/CMakeFiles/install/strip.dir
+/home/riosi/Documents/GitHub/opensourcespring2017/lab 4/Step3/MathFunctions/CMakeFiles/install/local.dir
+/home/riosi/Documents/GitHub/opensourcespring2017/lab 4/Step3/MathFunctions/CMakeFiles/test.dir
