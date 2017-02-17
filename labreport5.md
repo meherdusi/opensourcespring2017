@@ -2,7 +2,7 @@
 ### email: riosi@rpi.edu 
 
 ### Lab 4###
-0. 2. latex ![latex](images/latex.png)
+0. 	2. latex ![latex](images/latex.png)
 
 1.	i.	Projects: pyLemma, Remote Academy Laboratory, Reserve With Me, RPI Tours, Second String
 	ii. 	| project name 				| number of contributers 	| number of lines of code 	| the first commit 	| the latest commit 		| the current branches 	|
