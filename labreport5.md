@@ -4,7 +4,7 @@
 ### Lab 5###
 ## Part 0 
 
-1&2&3. wiki page in wiki.md, Latex ![latex](images/latex.png)
+wiki page in wiki.md, Latex ![latex](images/latex.png)
 
 ## Part 1
 Table 5
@@ -18,5 +18,7 @@ Remote Academy Laboratory   | 3   						|72956						| https://github.com/RemoteA
 Reserve With Me 			| 1   						|1577 						| https://github.com/NONstiky/ReserveWithMe/commit/1dc2a65fd52222afba1d395417a1cc60bd94c685	     | https://github.com/NONstiky/ReserveWithMe/commit/bbb3e3156adac5cce03c708f56c1cc1ebaad0e67    	| master				
 RPI Tours 			    	| 9   						|12600 						| https://github.com/JohnBehnke/RPI_Tours_iOS/commit/86ea911b660866f2cda10a30a73d63bd3ad13f35	 | https://github.com/JohnBehnke/RPI_Tours_iOS/commit/0909445ae9bf3ce0c77a72a6f0e2d186bda2bf28      | develop				
 Second String 			    | 5   						|646882			    		| https://github.com/cwilliamson226/SecondString/commit/0b5cfd799bac80cecf27158abb0cf2a1995851af | https://github.com/cwilliamson226/SecondString/commit/cfc252b5b4b7381622dd6e79c5370a3daff26ce5	| master				
+
+3. part 3 si video
 
 ## Part 2
