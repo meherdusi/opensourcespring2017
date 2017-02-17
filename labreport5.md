@@ -19,6 +19,6 @@ Reserve With Me 			| 1   						|1577 						| https://github.com/NONstiky/Reserve
 RPI Tours 			    	| 9   						|12600 						| https://github.com/JohnBehnke/RPI_Tours_iOS/commit/86ea911b660866f2cda10a30a73d63bd3ad13f35	 | https://github.com/JohnBehnke/RPI_Tours_iOS/commit/0909445ae9bf3ce0c77a72a6f0e2d186bda2bf28      | develop				
 Second String 			    | 5   						|646882			    		| https://github.com/cwilliamson226/SecondString/commit/0b5cfd799bac80cecf27158abb0cf2a1995851af | https://github.com/cwilliamson226/SecondString/commit/cfc252b5b4b7381622dd6e79c5370a3daff26ce5	| master				
 
-3. part 3 si video
+part 3: https://www.youtube.com/watch?v=4YLdR_Tb51s&feature=youtu.be
 
 ## Part 2
