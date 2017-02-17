@@ -4,7 +4,7 @@
 ### Lab 5###
 ## Part 0 
 
-wiki page in wiki.md, Latex ![latex](images/latex.png)
+wiki page in wiki.md, Latex ![latex](../images/latex.png)
 
 ## Part 1
 Table 5
